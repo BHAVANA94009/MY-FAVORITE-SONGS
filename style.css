@@ -1,0 +1,100 @@
+body{
+font-family: Arial, sans-serif;
+background: linear-gradient(to right,#667eea,#764ba2);
+margin:0;
+text-align:center;
+color:white;
+}
+
+/* Heading */
+h1{
+padding:30px;
+font-size:32px;
+}
+
+.slideshow{
+    text-align: center;
+    margin: 30px auto;
+}
+
+
+.slides{
+    width: 400px;        
+    height: 300px;       
+    object-fit: cover;    
+    border-radius: 20px;   
+    display: none;
+    margin: auto;
+}
+
+/* Show first image */
+.slides:first-child{
+    display: block;
+}
+
+/* Song Card */
+.song{
+background:white;
+color:black;
+width:55%;
+margin:40px auto;
+padding:25px;
+border-radius:15px;
+box-shadow:0 6px 15px rgba(0,0,0,0.3);
+text-align:center;
+}
+
+/* Song Image */
+.song img{
+width:200px;
+height:200px;
+border-radius:8px;
+object-fit:cover;
+margin-bottom:10px;
+cursor:pointer;
+}
+
+/* Text Styling */
+.song h2{
+font-size:22px;
+margin:10px 0;
+}
+
+.song p{
+font-size:15px;
+margin:4px 0;
+}
+
+.song h2{
+font-size:18px;
+margin-top:15px;
+}
+
+/* Lyrics */
+.lyrics{
+margin-top:15px;
+padding:15px;
+background:#f3f3f3;
+border-radius:10px;
+font-size:17px;
+line-height:1.7;
+text-align:center;
+}
+button{
+background:#ff6b6b;        
+color:white;              
+border:none;
+padding:12px 25px;
+font-size:18px;           
+border-radius:8px;
+cursor:pointer;
+margin:15px auto;     
+display:block;         
+transition:0.3s;
+}
+
+/* Hover effect (looks professional) */
+button:hover{
+background:#ff4b4b;
+transform:scale(1.05);
+}
