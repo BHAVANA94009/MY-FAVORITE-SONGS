@@ -16,15 +16,15 @@
 
 ## Technology Stack
 
-* **HTML5:** Establishes the robust structural foundation and semantic markup of the application.
-* **CSS3:** Delivers responsive design, custom styling, and an engaging visual presentation across devices.
+* **HTML:** Establishes the robust structural foundation and semantic markup of the application.
+* **CSS:** Delivers responsive design, custom styling, and an engaging visual presentation across devices.
 * **JavaScript:** Powers interactive components, dynamic content rendering, and playback features.
 
 ---
 
 ## Author & Professional Links
 
-**Bhavana Kantamani**
+**Bhavana kantamani**
 * **GitHub Profile:** [@BHAVANA94009](https://github.com/BHAVANA94009)
-* **LinkedIn Profile:** [Bhavana Kantamani](https://www.linkedin.com/in/bhavana-kantamani-1314b5385)
-* **Project Repository:** [Favorite Songs](https://github.com/BHAVANA94009/Favorite-Songs)
+* **LinkedIn Profile:** [Bhavana kantamani](https://www.linkedin.com/in/bhavana-kantamani-1314b5385?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+* **Project Repository:** [My-Favorite-Songs](https://github.com/BHAVANA94009/My-Favorite-Songs)
